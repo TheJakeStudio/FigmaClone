@@ -7,7 +7,7 @@
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Privacy Policy</a>
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Do not sell my personal info</a>
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Terms of Service</a>
-            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">nbcnews.com Site Map</a>
+       
           </div>
           <div class="flex gap-4 mt-4 md:mt-0">
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -25,7 +25,7 @@
           </div>
         </div>
         <div class="text-center text-sm text-gray-500 mt-4">
-          © 2020 NBC NEWS
+          © WearShop
         </div>
       </div>
     </footer>
